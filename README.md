@@ -98,6 +98,11 @@ public enum Operation {
 }
 ```
 
+## Uruchamianie
+```bash
+mvn clean javafx:run
+```
+
 ### Obsługa Błędów
 - Zabezpieczenie przed dzieleniem przez zero
 - Walidacja danych wejściowych
